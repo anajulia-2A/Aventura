@@ -1,0 +1,29 @@
+   body {
+        background-color:aquamarine;
+        color:black
+        font-family: "Gowun Batang", serif;
+        font-weight: bold;
+        font-size: 26px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 700px;
+        margin:0;
+    }
+
+    button {
+        background-color:darkmagenta
+        color:azure;
+        font-family: "reddit Sans Condensed", sans-serif;
+    }
+
+    .passo {
+        display:none.
+    }
+
+    .passo.ativo {
+        display:block;
+    }
+
+    main
+
